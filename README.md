@@ -4,7 +4,7 @@
 
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Installation](https://github.com/drewweller/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Post-Installation Configuration](https://github.com/drewweller/post-install-config)
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs]()
