@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Ticketing System)</b>
-  - [osTicket: Installation]()
+  - [osTicket: Installation](https://github.com/drewweller/osticket-prereqs)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
