@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an IT Professional</a>☺</h1>
+<h1>Hi, I'm Andrew Weller, an IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/drewweller/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/drewweller/azure-network-protocol)
 
 <h2>🤳Connect with me:</h2>
 
